@@ -1,0 +1,47 @@
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+
+  .navfiltre ul li {
+    margin: 10px;
+  }
+
+  .HebergementsMarseille {
+    width: 100%;
+    margin-bottom: 50px;
+  }
+
+  .sectionHebergements {
+    flex-wrap: wrap;
+  }
+
+  .HebergementsLesPlusPopulaires {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+
+  .TitrePlusIconChartLine {
+    width: 100%;
+  }
+
+  .elementPopulaires {
+    width: 31%;
+    height: 190px;
+  }
+
+  .elementPopulaires a {
+    width: 40%;
+    min-width: 110px;
+  }
+
+  .elementPopulaires img {
+    width: 100%;
+  }
+
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+  }
+}
